@@ -45,3 +45,18 @@ https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9213436c-e642-4687-b61
 ## Labwork3 Python challenge (python puzzles)
 
 This week I made a quiz game about maths where I called python's random module to generate simple arithmetic questions and asked the user to answer the questions in a set amount of time. If the answer is correct, the user is awarded a point, otherwise a hint is given. During the game, the difficulty level increases over time and the player can choose the difficulty level (easy, medium or hard). At the end of the game, the score will be displayed.
+
+![Cow4](https://github.com/yrrrng/Coding-two_weekly_Shaohua-Yang/raw/main/coding%20two%20image/4.png "Cow4")
+
+## Labwork4 Python Image dataset exercise
+
+For this python image exercise, I downloaded 100 works by Monet as well as the Chinese painter Guanzhong Wu and imported them into a local library, and then averaged them using the NumPy function. I tried the same function on a different number of source images and added the median to the original operation, which produced different results, and here are two of my creations.
+
+##### Monet works 
+
+![Cow5](https://github.com/yrrrng/Coding-two_weekly_Shaohua-Yang/raw/main/coding%20two%20image/5.png "Cow5")
+
+##### Works by Chinese painter Guanzhong Wu
+
+![Cow6](https://github.com/yrrrng/Coding-two_weekly_Shaohua-Yang/raw/main/coding%20two%20image/6.png "Cow6")
+
