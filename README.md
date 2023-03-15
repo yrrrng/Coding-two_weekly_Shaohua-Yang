@@ -30,6 +30,7 @@ https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f3d5d43-f16c-4731-986
 
 ![Cow2](https://github.com/yrrrng/Coding-two_weekly_Shaohua-Yang/raw/main/coding%20two%20image/2.png "Cow2")
 
+
 ## Labwork2 Openframework - boid
 
 #### Youtube video link:
@@ -42,11 +43,13 @@ https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9213436c-e642-4687-b61
 
 ![Cow3](https://github.com/yrrrng/Coding-two_weekly_Shaohua-Yang/raw/main/coding%20two%20image/3.png "Cow3")
 
+
 ## Labwork3 Python challenge (python puzzles)
 
 This week I made a quiz game about maths where I called python's random module to generate simple arithmetic questions and asked the user to answer the questions in a set amount of time. If the answer is correct, the user is awarded a point, otherwise a hint is given. During the game, the difficulty level increases over time and the player can choose the difficulty level (easy, medium or hard). At the end of the game, the score will be displayed.
 
 ![Cow4](https://github.com/yrrrng/Coding-two_weekly_Shaohua-Yang/raw/main/coding%20two%20image/4.png "Cow4")
+
 
 ## Labwork4 Python Image dataset exercise
 
