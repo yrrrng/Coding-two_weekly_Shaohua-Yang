@@ -6,7 +6,7 @@ This is the repository for my Coding2 homework Element one
 
 I have made two open source projects one on sound conversion and the other on mouse control of video screen colours and visual changes.
 
-## The voice example
+### The voice example
 
 #### Youtube video link:
 
